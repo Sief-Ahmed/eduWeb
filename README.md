@@ -1,1 +1,1 @@
-test github hook1
+test github hook2
